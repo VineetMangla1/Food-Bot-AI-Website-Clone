@@ -1,4 +1,3 @@
-# Food-Bot-AI-Website-Clone
 # 🍽️ Food Bot AI - Website Clone
 
 A responsive and visually engaging clone of the **Food Bot AI** official website. This project is built using **HTML** and **CSS** to mimic the original layout, design, and functionality.
