@@ -13,6 +13,10 @@ The **Food Bot AI Website Clone** simulates a professional business landing page
 ## 📸 Preview
 
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/b2b47b90-3670-4b1e-9411-993b6127bd4a" />
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/23ed6308-b53f-4bac-b406-7839e3ed3c9b" />
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/99dcaffd-1f7b-4b18-bcd4-de9c66dc7ad8" />
+
+
 
 ---
 
