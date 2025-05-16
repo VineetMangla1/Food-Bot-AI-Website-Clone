@@ -12,7 +12,7 @@ The **Food Bot AI Website Clone** simulates a professional business landing page
 
 ## 📸 Preview
 
-> _Insert screenshot or GIF here if available_
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/b2b47b90-3670-4b1e-9411-993b6127bd4a" />
 
 ---
 
@@ -23,6 +23,4 @@ The **Food Bot AI Website Clone** simulates a professional business landing page
 - Responsive Design using basic media queries and flex techniques (can be added for enhancements).
 
 ---
-
-## 📂 Folder Structure
 
