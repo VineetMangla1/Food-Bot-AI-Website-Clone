@@ -20,7 +20,6 @@ The **Food Bot AI Website Clone** simulates a professional business landing page
 
 - **HTML5**
 - **CSS3**
-- Responsive Design using basic media queries and flex techniques (can be added for enhancements).
 
 ---
 
